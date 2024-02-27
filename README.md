@@ -1,16 +1,28 @@
-### Hi there 👋
+### Oi pessoal
 
-<!--
-**Morioko/Morioko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Morioko&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morioko&layout=compact&langs_count=16&theme=panda"/>
+</div>
+<br>
 
-Here are some ideas to get you started:
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="250" alt="coding-time" src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif">
+    <h1 align="center">Tecnologias</h1>
+    <img align="center" height="30" width="40" alt="java-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="python-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+    
+   </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <h1 align="center">Minhas Redes</h1>
+    <a href = "www.linkedin.com/in/cristiano-silva-mori9080">
+      <img width="25" src="https://cdn-icons-png.flaticon.com/256/174/174857.png">
+    </a>
+</div>
+
+![Snake animation](https://github.com/Morioko/Morioko/blob/output/github-contribution-grid-snake.svg)
