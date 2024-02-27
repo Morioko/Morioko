@@ -18,7 +18,6 @@
     <img align="center" height="30" width="40" alt="python-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
     
    </div>
-
    <h1 align="center">Minhas Redes</h1>
     <a href = "www.linkedin.com/in/cristiano-silva-mori9080">
       <img width="25" src="https://cdn-icons-png.flaticon.com/256/174/174857.png">
