@@ -18,7 +18,7 @@
     
    </div>
    <h1 align="center">Minhas Redes</h1>
-    <a href = "www.linkedin.com/in/cristiano-silva-mori9080">
+   <a href = "https://www.linkedin.com/in/cristiano-silva-mori9080">
       <img width="25" src="https://cdn-icons-png.flaticon.com/256/174/174857.png">
     </a>
 </div>
